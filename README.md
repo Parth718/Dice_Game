@@ -1,4 +1,5 @@
 Dice Duel is a simple two-player web-based dice game where Player 1 and Player 2 compete head-to-head by rolling two dice simultaneously. The player who rolls the highest number wins the round, with a draw occurring if both players roll the same number. The game aims to provide a thrilling and competitive experience for players of all ages. 
+
 Key Features:
 
 Two-Player Gameplay: Players compete in real-time, rolling dice simultaneously to determine the outcome of each round.
